@@ -1,2 +1,2 @@
 # GraphRag
- ## 1
+ ## GraphRag
