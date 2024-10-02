@@ -29,3 +29,10 @@ You can also use the Microsoft Fabric OneLake location by following below steps
     - Once installed you will be able to browse to your Fabric workspace and oneLake
 
     - Copy the text file which you want to be gaphed inside the Files folder in oneLake
+# Graph
+After running the notebook you print the graph which will be similar to below
+
+
+
+![Alt text](GeneratedGraph.png)
+
