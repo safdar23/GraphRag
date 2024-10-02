@@ -16,7 +16,7 @@ Please create a Python 3.10-3.12 Conda environment with below commands.
 
     conda activate graph
 
-We will use the "graph" Conda environment to run the below notebook and create the graph indexes.
+We will use the "graph" Conda environment to run the GraphRAG.ipynb notebook and create the graph indexes.
 ## 2. Input Data
 The text file need to be placed inside an **input** folder so that the Graph init command can read the text files
 
