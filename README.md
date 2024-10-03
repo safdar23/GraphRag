@@ -1,6 +1,8 @@
 # GraphRag
-Microsoft GraphRAG (Graph Retrieval-Augmented Generation) improves upon traditional Retrieval-Augmented Generation (Standard RAG) systems by utilizing knowledge graphs created by large language models (LLMs). 
+Simple retrieval tasks have become easier with the widespread adoption of RAG techniques, the focus is shifting towards advanced systems that can provide comprehensive answers to global queries and reason over large text collections. Microsoft’s GraphRAG emerges as an advanced solution to address this growing need by utilizing knowledge graphs. 
 This approach involves building a structured knowledge graph from a collection of documents, pinpointing key entities like people, places, and concepts, and representing them as nodes in a graph.
+These nodes are then organized into semantic clusters, facilitating the production of more detailed and varied responses to complex, multi-hop queries. By making use of these structured knowledge graphs, GraphRAG enhances the quality and relevance of the generated answers.
+
 
 In this notebook we will be implementing a Microsoft Graphrag ingestion pipeline to create a graph from the raw text data and will run few queries on the craeted graph 
 
